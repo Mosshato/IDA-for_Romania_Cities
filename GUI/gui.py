@@ -83,14 +83,12 @@ def calculeaza_distanta():
 
     city1, city2 = selected_cities
     print(f"Calculam distanta intre {city1} si {city2}...")
-    idADistance(city1, city2)  # Aici apelezi functia din alt fisier
+    idADistance(city1, city2)
 
-# Tkinter window
 root = tk.Tk()
-root.title("Clickable Romania Map")
-root.geometry(f"{MAP_WIDTH}x{MAP_HEIGHT + 50}")  # Facem loc si pentru buton
+root.title("Romania")
+root.geometry(f"{MAP_WIDTH}x{MAP_HEIGHT + 50}")
 
-# Load and display the map image
 image = Image.open(MAP_PATH)
 image = image.resize((MAP_WIDTH, MAP_HEIGHT), Image.LANCZOS)
 map_image = ImageTk.PhotoImage(image)
@@ -99,7 +97,6 @@ canvas = tk.Canvas(root, width=MAP_WIDTH, height=MAP_HEIGHT)
 canvas.pack()
 canvas.create_image(0, 0, anchor=tk.NW, image=map_image)
 
-# Draw clickable cities on the map
 for city, (x, y) in cities.items():
     city_oval = canvas.create_oval(x - 5, y - 5, x + 5, y + 5, fill="yellow", outline="black")
     city_ovals[city] = city_oval
@@ -107,7 +104,6 @@ for city, (x, y) in cities.items():
     canvas.tag_bind(city_oval, "<Button-1>",
                     lambda event, city_name=city, oval=city_oval: on_city_click(city_name, oval))
 
-# the button for distance
 button_frame = tk.Frame(root)
 button_frame.pack(side=tk.BOTTOM, anchor=tk.W, padx=10, pady=10)
 

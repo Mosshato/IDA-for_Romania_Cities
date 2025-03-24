@@ -144,7 +144,7 @@ def search(path, g, threshold, goal):
 
     for neighbor, cost in graph.get(node, []):
         if neighbor in path:
-            continue  # Evită ciclurile
+            continue
 
         path.append(neighbor)
 
@@ -156,7 +156,7 @@ def search(path, g, threshold, goal):
         if temp < min_threshold:
             min_threshold = temp
 
-        path.pop()  # Backtrack
+        path.pop()
 
     return min_threshold
 
