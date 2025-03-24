@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REPLY
+BEGIN:VEVENT
+DTSTART:20250304T160000Z
+DTEND:20250304T180000Z
+DTSTAMP:20250304T155636Z
+ORGANIZER;CN=Florin Ciocan (Nokia):mailto:florin.ciocan@nokia.com
+UID:040000008200E00074C5B7101A82E00800000000F01A99DBAD86DB01000000000000000
+ 010000000D176756E93B6B54C9A92EDB99A9C1D1E
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Alexan
+ dru Babtan;X-NUM-GUESTS=0:mailto:gelu.babtan04@e-uvt.ro
+CREATED:20250304T083739Z
+DESCRIPTION:Salutare tuturor\,\n\nVa multumim pentru interesul manifestat p
+ entru laboratorul “Software activities in Nokia Technology Center for Mobil
+ e Networks” din cadrul LABS 2025.\nSesiunea de testare se va desfasura pe o
+  platforma online (mai multe detalii veti primi in aceasta sesiune pe Teams
+  la ora 18:00).\n\nSa aveti in vedere urmatoarele:\n\n  *   camera pornita 
+ pe tot parcursul testului\,\n  *   o conexiune stabila la internet (daca va
+  deconectati nu veti putea relua testul).\n\nTestul va contine: 3 probleme 
+ de algoritmica cu diferite grade de dificultate\, o problema de logica si o
+  intrebare cu raspuns tip eseu.\nDurata testului va fi de 2h.\n\nSucces!\n\
+ nFLORIN COSTIN CIOCAN\n\nEcosystem & Innovation Garage Manager\n\nNokia Rom
+ ania\, Timisoara\n\nMobile: +40 747 279 520\n\nflorin.ciocan@nokia.com<mail
+ to:florin.ciocan@nokia.com>\n\n\n-----Original Appointment-----\nFrom: Flor
+ in Ciocan (Nokia)\nSent: Monday\, February 24\, 2025 11:22 AM\nTo: Florin C
+ iocan (Nokia)\; Csilla Groza (Nokia)\; David Dudas (Nokia)\; Catalin Mucica
+  (Nokia)\; Mihai Borsu (Nokia)\; Andreea-Maria Pintea (Nokia)\; Sebastian S
+ uceava (Nokia)\; William Suceava (Nokia)\; Alin Han (Nokia)\; Catalin Croit
+ oru (Nokia)\; Odette MILITARU\; alexandru.braescu@ligaac.ro<mailto:alexandr
+ u.braescu@ligaac.ro>\nCc: Andreea Georgescu (Nokia)\; Razvan Munteanu (Noki
+ a)\; Anca Iliescu (Nokia)\; Robert Sandor (Nokia)\; Cristian Popute (Nokia)
+ \nSubject: Liga AC LABS - Nokia 1: Software activities in Nokia Technology 
+ Center for Mobile Networks - sesiune testare\nWhen: Tuesday\, March 4\, 202
+ 5 6:00 PM-8:00 PM (UTC+02:00) Athens\, Bucharest.\nWhere: Microsoft Teams M
+ eeting\n\n\n_______________________________________________________________
+ _________________\nMicrosoft Teams Need help?<https://aka.ms/JoinTeamsMeeti
+ ng?omkt=en-US>\nJoin the meeting now<https://teams.microsoft.com/l/meetup-j
+ oin/19%3ameeting_NDFkNGU3YzctMGQ0ZS00MmY5LWIyOTktNDYxMWY3N2RkZjJm%40thread.
+ v2/0?context=%7b%22Tid%22%3a%225d471751-9675-428d-917b-70f44f9630b0%22%2c%2
+ 2Oid%22%3a%2236b14b74-5783-46a8-bd73-6bd404bab030%22%7d>\nMeeting ID: 390 5
+ 68 133 253\nPasscode: xQ284k9a\n________________________________\nDial in b
+ y phone\n+40 21 529 2061\,\,346633537#<tel:+40215292061\,\,346633537> Roman
+ ia\, Bucharest\nFind a local number<https://dialin.teams.microsoft.com/5a21
+ d3c8-6512-4a91-a983-d3679042eed2?id=346633537>\nPhone conference ID: 346 63
+ 3 537#\nJoin on a video conferencing device\nTenant key: teams@vc.nokia.com
+ <mailto:teams@vc.nokia.com>\nVideo ID: 122 578 953 7\nMore info<https://pex
+ ip.me/teams/vc.nokia.com/1225789537>\nFor organizers: Meeting options<https
+ ://teams.microsoft.com/meetingOptions/?organizerId=36b14b74-5783-46a8-bd73-
+ 6bd404bab030&tenantId=5d471751-9675-428d-917b-70f44f9630b0&threadId=19_meet
+ ing_NDFkNGU3YzctMGQ0ZS00MmY5LWIyOTktNDYxMWY3N2RkZjJm@thread.v2&messageId=0&
+ language=en-US> | Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/
+ pstnconferencing>\n-- Note that attendee's phone number is visible for the 
+ meeting organizer when connected by phone. Do not manually delete or change
+  any information in this section --\nPrivacy and security<https://nok.it/Te
+ amsPrivacy1>\n_____________________________________________________________
+ ___________________\n\n
+LAST-MODIFIED:20250304T155636Z
+LOCATION:Microsoft Teams Meeting
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:FW: Liga AC LABS - Nokia 1: Software activities in Nokia Technology
+  Center for Mobile Networks - sesiune testare
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:3
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:2
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:1498949609
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Locat
+ ionUri" : "" } ]
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/5d471751-9675-428d-917b-70f44f9630b0/36b14b74-5783-46a8-bd73-6b
+ d404bab030/19_meeting_NDFkNGU3YzctMGQ0ZS00MmY5LWIyOTktNDYxMWY3N2RkZjJm@thre
+ ad.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NDFkNGU3YzctMGQ0ZS00MmY5LWIyOTktNDYxMWY3N2RkZjJm%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%225d471751-9675-428d-917b-70f44f9630b0%22%2c%22Oid
+ %22%3a%2236b14b74-5783-46a8-bd73-6bd404bab030%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NDFkNGU3YzctMGQ0ZS00MmY
+ 5LWIyOTktNDYxMWY3N2RkZjJm@thread.v2"\,"private":true\,"type":0\,"mid":0\,"r
+ id":0\,"uid":null}
+END:VEVENT
+END:VCALENDAR
